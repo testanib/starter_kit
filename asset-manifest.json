@@ -8,8 +8,8 @@
   "runtime~main.js": "/starter_kit/static/js/runtime~main.f58b1431.js",
   "runtime~main.js.map": "/starter_kit/static/js/runtime~main.f58b1431.js.map",
   "static/media/logo.png": "/starter_kit/static/media/logo.06825633.png",
-  "static/css/main.511b50b6.chunk.css.map": "/starter_kit/static/css/main.511b50b6.chunk.css.map",
   "static/css/1.6362eba9.chunk.css.map": "/starter_kit/static/css/1.6362eba9.chunk.css.map",
+  "static/css/main.511b50b6.chunk.css.map": "/starter_kit/static/css/main.511b50b6.chunk.css.map",
   "index.html": "/starter_kit/index.html",
   "precache-manifest.f53dbf367f756d11cc12914cb741d333.js": "/starter_kit/precache-manifest.f53dbf367f756d11cc12914cb741d333.js",
   "service-worker.js": "/starter_kit/service-worker.js"
